@@ -1,11 +1,1 @@
-{
-  "name": "html-app",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.17.1"
-  }
-}
+web: node server.js
